@@ -497,8 +497,9 @@
       "species": "KADABRA",
       "evos": [
         {
-          "method": "EVO_TRADE",
-          "target": "ALAKAZAM"
+          "method": "EVO_LEVEL",
+          "target": "ALAKAZAM",
+          "param": 37
         }
       ]
     },
@@ -520,8 +521,9 @@
       "species": "MACHOKE",
       "evos": [
         {
-          "method": "EVO_TRADE",
-          "target": "MACHAMP"
+          "method": "EVO_LEVEL",
+          "target": "MACHAMP",
+          "param": 37
         }
       ]
     },
@@ -581,8 +583,9 @@
       "species": "GRAVELER",
       "evos": [
         {
-          "method": "EVO_TRADE",
-          "target": "GOLEM"
+          "method": "EVO_LEVEL",
+          "target": "GOLEM",
+          "param": 37
         }
       ]
     },
@@ -716,8 +719,9 @@
       "species": "HAUNTER",
       "evos": [
         {
-          "method": "EVO_TRADE",
-          "target": "GENGAR"
+          "method": "EVO_LEVEL",
+          "target": "GENGAR",
+          "param": 37
         }
       ]
     },

@@ -2418,7 +2418,7 @@
     },
     {
       "name": "ITEM_RARE_CANDY",
-      "price": 4800,
+      "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "unk4": 0,
