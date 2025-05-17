@@ -566,11 +566,11 @@
         {
           "move": "ICE_FANG",
           "level": 36
-        }
+        },
         {
           "move": "ICE_BEAM",
           "level": 38
-        }
+        },
         {
           "move": "SKULL_BASH",
           "level": 39
@@ -14863,7 +14863,7 @@
         {
           "move": "ENERGY_BALL",
           "level": 36
-        }
+        },
         {
           "move": "SLAM",
           "level": 43
@@ -15054,7 +15054,7 @@
         {
           "move": "FLAMETHROWER",
           "level": 37
-        }
+        },
         {
           "move": "SLASH",
           "level": 42
