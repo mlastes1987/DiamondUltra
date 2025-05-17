@@ -2610,7 +2610,7 @@
     },
     {
       "name": "ITEM_PP_MAX",
-      "price": 9800,
+      "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "unk4": 0,
