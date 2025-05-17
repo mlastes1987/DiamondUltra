@@ -1,16 +1,11 @@
-# Pokémon Diamond
+# Pokémon Diamond/Pearl Ultra
 
-[![build](https://github.com/pret/pokediamond/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/pret/pokediamond/actions/workflows/build.yml)
+Based on the [**pokediamond**](https://github.com/pret/pokediamond) disassembly by pret.
 
-This is a WIP decompilation of Pokémon Diamond.
+# Features Currently Implemented
 
-It builds the following ROMs:
+- **Changed Starters:** Starters have been changed to Treecko, Torchic and Squirtle.
+- **Free Rare Candies:** Once put into the marts, Rare Candies, and soon Master Balls and PP Max will be sold for free in marts like PlatinumUltra.
+- **Changed movesets:** Movesets for the starters have been changed, adding more moves to learn by levelup.
 
-* [**pokediamond.us.nds**](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=1015) `sha1: a46233d8b79a69ea87aa295a0efad5237d02841e`
-* [**pokepearl.us.nds**](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=1016) `sha1: 99083bf15ec7c6b81b4ba241ee10abd9e80999ac`
-
-To set up the repository, see [INSTALL.md](INSTALL.md).
-
-For contributor instructions, see [CONTRIBUTING.md](CONTRIBUTING.md).
-
-For contacts and other pret projects, see [pret.github.io](https://pret.github.io/).
+Coming soon...
