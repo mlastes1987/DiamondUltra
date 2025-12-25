@@ -286,12 +286,15 @@ static const u16 sNormalMartBadgeThresholds[][2] = {
     { ITEM_POKE_BALL,    1 },
     { ITEM_GREAT_BALL,   3 },
     { ITEM_ULTRA_BALL,   4 },
+    { ITEM_MASTER_BALL,  1 },
     // Potions
     { ITEM_POTION,       1 },
     { ITEM_SUPER_POTION, 2 },
     { ITEM_HYPER_POTION, 4 },
     { ITEM_MAX_POTION,   5 },
     { ITEM_FULL_RESTORE, 6 },
+    { ITEM_RARE_CANDY,   1 },
+    { ITEM_PP_MAX,       1 },
     // Revives
     { ITEM_REVIVE,       3 },
     // Status heal
